@@ -5,3 +5,5 @@ end
 def using_insert(array, element)
   p array.insert(4,element)
 end
+
+using_uniq(array)
