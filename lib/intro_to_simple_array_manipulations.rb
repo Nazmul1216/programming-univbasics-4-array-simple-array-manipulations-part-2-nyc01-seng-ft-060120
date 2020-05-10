@@ -6,14 +6,14 @@ def using_insert(array, element)
   p array.insert(4,element)
 end
 
-using_uniq(array)
+def using_uniq(array)
 p array.uniq 
 end 
 
-using_flatten(array)
+def using_flatten(array)
 p array.flatten 
 end
 
-using_delete(array, string)
+def using_delete(array, string)
 p array.delete(string)
 end
