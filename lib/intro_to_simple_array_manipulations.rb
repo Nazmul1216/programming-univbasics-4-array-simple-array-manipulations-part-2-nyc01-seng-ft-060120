@@ -11,3 +11,6 @@ p array.uniq
 end 
 
 using_flatten(array)
+p array.flatten 
+end
+
