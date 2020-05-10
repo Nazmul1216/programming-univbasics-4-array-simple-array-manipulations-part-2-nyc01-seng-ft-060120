@@ -14,3 +14,6 @@ using_flatten(array)
 p array.flatten 
 end
 
+using_delete(array, string)
+p array.delete(string)
+end
